@@ -3,4 +3,4 @@
 
 
 演示：
-![image](http://ovlgsoo3g.bkt.clouddn.com/seting-pic.png)
+![image-w140](seting-pic.png)
