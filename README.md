@@ -3,4 +3,4 @@
 
 
 演示：
-![image](seting-pic.png =240x360)
+![image-w240](seting-pic.png)
