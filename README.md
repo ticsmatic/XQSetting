@@ -3,4 +3,4 @@
 
 
 演示：
-![image-w240](seting-pic.png)
+![image](seting-pic.png)
